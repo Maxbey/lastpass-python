@@ -5,3 +5,4 @@ example/credentials.json
 *.egg-info/
 dist/
 .tox
+.idea
